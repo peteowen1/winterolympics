@@ -1,0 +1,38 @@
+Package: winterolympics
+Type: Package
+Title: 2026 Winter Olympics Performance Prediction Utilities
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Pete", "O'Hanlon",
+      email = "pete@example.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Tidyverse-oriented tooling that normalizes athlete-event datasets
+    to a canonical list of 116 Milan-Cortina 2026 winter events, reconciles
+    event naming variants, and enforces per-event medal probability constraints.
+    Produces a cleaned athlete database and diagnostics to support medal
+    prediction workflows.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 3.5.0)
+Imports:
+    dplyr,
+    glue,
+    janitor,
+    purrr,
+    readr,
+    stringr,
+    tibble,
+    tidyr,
+    tools
+Suggests:
+    devtools,
+    readxl,
+    roxygen2,
+    testthat (>= 3.0.0)
+RoxygenNote: 7.3.3
+Config/testthat/edition: 3

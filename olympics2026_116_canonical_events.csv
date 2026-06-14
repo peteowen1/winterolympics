@@ -1,0 +1,117 @@
+Sport,EventName,Event_full
+Alpine,Men's Downhill,Alpine - Men's Downhill
+Alpine,Men's Super-G,Alpine - Men's Super-G
+Alpine,Men's Giant Slalom,Alpine - Men's Giant Slalom
+Alpine,Men's Slalom,Alpine - Men's Slalom
+Alpine,Men's Team Combined,Alpine - Men's Team Combined
+Alpine,Women's Downhill,Alpine - Women's Downhill
+Alpine,Women's Super-G,Alpine - Women's Super-G
+Alpine,Women's Giant Slalom,Alpine - Women's Giant Slalom
+Alpine,Women's Slalom,Alpine - Women's Slalom
+Alpine,Women's Team Combined,Alpine - Women's Team Combined
+Biathlon,Men's Sprint 10km,Biathlon - Men's Sprint 10km
+Biathlon,Men's Individual 20km,Biathlon - Men's Individual 20km
+Biathlon,Men's Pursuit 12.5km,Biathlon - Men's Pursuit 12.5km
+Biathlon,Men's Mass Start 15km,Biathlon - Men's Mass Start 15km
+Biathlon,Men's 4x7.5km Relay,Biathlon - Men's 4x7.5km Relay
+Biathlon,Women's Sprint 7.5km,Biathlon - Women's Sprint 7.5km
+Biathlon,Women's Individual 15km,Biathlon - Women's Individual 15km
+Biathlon,Women's Pursuit 10km,Biathlon - Women's Pursuit 10km
+Biathlon,Women's Mass Start 12.5km,Biathlon - Women's Mass Start 12.5km
+Biathlon,Women's 4x6km Relay,Biathlon - Women's 4x6km Relay
+Biathlon,Mixed 4x6km Relay,Biathlon - Mixed 4x6km Relay
+Bobsleigh,2-Man,Bobsleigh - 2-Man
+Bobsleigh,4-Man,Bobsleigh - 4-Man
+Bobsleigh,2-Woman,Bobsleigh - 2-Woman
+Bobsleigh,Women's Monobob,Bobsleigh - Women's Monobob
+Skeleton,Men,Skeleton - Men
+Skeleton,Women,Skeleton - Women
+Skeleton,Mixed Team,Skeleton - Mixed Team
+Luge,Men's Singles,Luge - Men's Singles
+Luge,Women's Singles,Luge - Women's Singles
+Luge,Men's Doubles,Luge - Men's Doubles
+Luge,Women's Doubles,Luge - Women's Doubles
+Luge,Team Relay,Luge - Team Relay
+Cross-Country,Men's Sprint (Classic),Cross-Country - Men's Sprint (Classic)
+Cross-Country,Men's 15km (Free),Cross-Country - Men's 15km (Free)
+Cross-Country,Men's Skiathlon 2x10km,Cross-Country - Men's Skiathlon 2x10km
+Cross-Country,Men's 50km (Classic),Cross-Country - Men's 50km (Classic)
+Cross-Country,Men's Team Sprint (Free),Cross-Country - Men's Team Sprint (Free)
+Cross-Country,Men's 4x10km Relay,Cross-Country - Men's 4x10km Relay
+Cross-Country,Women's Sprint (Classic),Cross-Country - Women's Sprint (Classic)
+Cross-Country,Women's 10km (Free),Cross-Country - Women's 10km (Free)
+Cross-Country,Women's Skiathlon 2x7.5km,Cross-Country - Women's Skiathlon 2x7.5km
+Cross-Country,Women's 50km (Classic),Cross-Country - Women's 50km (Classic)
+Cross-Country,Women's Team Sprint (Free),Cross-Country - Women's Team Sprint (Free)
+Cross-Country,Women's 4x5km Relay,Cross-Country - Women's 4x5km Relay
+Curling,Men's Tournament,Curling - Men's Tournament
+Curling,Women's Tournament,Curling - Women's Tournament
+Curling,Mixed Doubles,Curling - Mixed Doubles
+Figure Skating,Men's Singles,Figure Skating - Men's Singles
+Figure Skating,Women's Singles,Figure Skating - Women's Singles
+Figure Skating,Pairs,Figure Skating - Pairs
+Figure Skating,Ice Dance,Figure Skating - Ice Dance
+Figure Skating,Team,Figure Skating - Team
+Freestyle Skiing,Men's Moguls,Freestyle Skiing - Men's Moguls
+Freestyle Skiing,Women's Moguls,Freestyle Skiing - Women's Moguls
+Freestyle Skiing,Men's Dual Moguls,Freestyle Skiing - Men's Dual Moguls
+Freestyle Skiing,Women's Dual Moguls,Freestyle Skiing - Women's Dual Moguls
+Freestyle Skiing,Men's Aerials,Freestyle Skiing - Men's Aerials
+Freestyle Skiing,Women's Aerials,Freestyle Skiing - Women's Aerials
+Freestyle Skiing,Mixed Team Aerials,Freestyle Skiing - Mixed Team Aerials
+Freestyle Skiing,Men's Ski Cross,Freestyle Skiing - Men's Ski Cross
+Freestyle Skiing,Women's Ski Cross,Freestyle Skiing - Women's Ski Cross
+Freestyle Skiing,Men's Halfpipe (Ski),Freestyle Skiing - Men's Halfpipe (Ski)
+Freestyle Skiing,Women's Halfpipe (Ski),Freestyle Skiing - Women's Halfpipe (Ski)
+Freestyle Skiing,Men's Slopestyle (Ski),Freestyle Skiing - Men's Slopestyle (Ski)
+Freestyle Skiing,Women's Slopestyle (Ski),Freestyle Skiing - Women's Slopestyle (Ski)
+Freestyle Skiing,Men's Big Air (Ski),Freestyle Skiing - Men's Big Air (Ski)
+Freestyle Skiing,Women's Big Air (Ski),Freestyle Skiing - Women's Big Air (Ski)
+Ice Hockey,Men's Tournament,Ice Hockey - Men's Tournament
+Ice Hockey,Women's Tournament,Ice Hockey - Women's Tournament
+Short Track,Men's 500m,Short Track - Men's 500m
+Short Track,Men's 1000m,Short Track - Men's 1000m
+Short Track,Men's 1500m,Short Track - Men's 1500m
+Short Track,Women's 500m,Short Track - Women's 500m
+Short Track,Women's 1000m,Short Track - Women's 1000m
+Short Track,Women's 1500m,Short Track - Women's 1500m
+Short Track,Men's 5000m Relay,Short Track - Men's 5000m Relay
+Short Track,Women's 3000m Relay,Short Track - Women's 3000m Relay
+Short Track,Mixed Team Relay,Short Track - Mixed Team Relay
+Ski Jumping,Men's Normal Hill,Ski Jumping - Men's Normal Hill
+Ski Jumping,Men's Large Hill,Ski Jumping - Men's Large Hill
+Ski Jumping,Women's Normal Hill,Ski Jumping - Women's Normal Hill
+Ski Jumping,Women's Large Hill,Ski Jumping - Women's Large Hill
+Ski Jumping,Men's Team,Ski Jumping - Men's Team
+Ski Jumping,Mixed Team,Ski Jumping - Mixed Team
+Nordic Combined,Men's Individual Normal Hill/10km,Nordic Combined - Men's Individual Normal Hill/10km
+Nordic Combined,Men's Individual Large Hill/10km,Nordic Combined - Men's Individual Large Hill/10km
+Nordic Combined,Men's Team Large Hill/2x7.5km,Nordic Combined - Men's Team Large Hill/2x7.5km
+Ski Mountaineering,Men's Sprint,Ski Mountaineering - Men's Sprint
+Ski Mountaineering,Women's Sprint,Ski Mountaineering - Women's Sprint
+Ski Mountaineering,Mixed Relay,Ski Mountaineering - Mixed Relay
+Snowboard,Men's Halfpipe,Snowboard - Men's Halfpipe
+Snowboard,Women's Halfpipe,Snowboard - Women's Halfpipe
+Snowboard,Men's Slopestyle,Snowboard - Men's Slopestyle
+Snowboard,Women's Slopestyle,Snowboard - Women's Slopestyle
+Snowboard,Men's Big Air,Snowboard - Men's Big Air
+Snowboard,Women's Big Air,Snowboard - Women's Big Air
+Snowboard,Men's Snowboard Cross,Snowboard - Men's Snowboard Cross
+Snowboard,Women's Snowboard Cross,Snowboard - Women's Snowboard Cross
+Snowboard,Mixed Team Snowboard Cross,Snowboard - Mixed Team Snowboard Cross
+Snowboard,Men's Parallel Giant Slalom,Snowboard - Men's Parallel Giant Slalom
+Snowboard,Women's Parallel Giant Slalom,Snowboard - Women's Parallel Giant Slalom
+Speed Skating,Men's 500m,Speed Skating - Men's 500m
+Speed Skating,Men's 1000m,Speed Skating - Men's 1000m
+Speed Skating,Men's 1500m,Speed Skating - Men's 1500m
+Speed Skating,Men's 5000m,Speed Skating - Men's 5000m
+Speed Skating,Men's 10000m,Speed Skating - Men's 10000m
+Speed Skating,Men's Mass Start,Speed Skating - Men's Mass Start
+Speed Skating,Men's Team Pursuit,Speed Skating - Men's Team Pursuit
+Speed Skating,Women's 500m,Speed Skating - Women's 500m
+Speed Skating,Women's 1000m,Speed Skating - Women's 1000m
+Speed Skating,Women's 1500m,Speed Skating - Women's 1500m
+Speed Skating,Women's 3000m,Speed Skating - Women's 3000m
+Speed Skating,Women's 5000m,Speed Skating - Women's 5000m
+Speed Skating,Women's Mass Start,Speed Skating - Women's Mass Start
+Speed Skating,Women's Team Pursuit,Speed Skating - Women's Team Pursuit

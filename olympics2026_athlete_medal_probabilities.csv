@@ -1,0 +1,606 @@
+Event,AthleteTeam,Country,Prob_Gold,Prob_Silver,Prob_Bronze,Notes
+Alpine - Men's Downhill,Marco Odermatt,SUI,0.28,0.25,0.15,2025 WC downhill globe + 4th overall title
+Alpine - Men's Downhill,Franjo von Allmen,SUI,0.22,0.2,0.18,2025 World Champion; breakout star
+Alpine - Men's Downhill,Vincent Kriechmayr,AUT,0.18,0.22,0.2,2025 Worlds silver; veteran consistency
+Alpine - Men's Downhill,Dominik Paris,ITA,0.12,0.15,0.18,"Italian speed ace, home Games"
+Alpine - Men's Downhill,Aleksander Aamodt Kilde,NOR,0.1,0.12,0.15,Top talent if healthy (injury concerns)
+Alpine - Men's Downhill,Niels Hintermann,SUI,0.04,0.05,0.08,
+Alpine - Men's Downhill,Beat Feuz,SUI,0.03,0.03,0.05,If active/fit
+Alpine - Men's Downhill,James Crawford,CAN,0.02,0.04,0.08,
+Alpine - Men's Downhill,Johan Clarey,FRA,0.01,0.03,0.06,If active/fit
+Alpine - Men's Downhill,Matthias Mayer,AUT,0.0,0.02,0.05,If active/fit
+Alpine - Men's Giant Slalom,Marco Odermatt,SUI,0.42,0.28,0.12,Won 24 of last 36 GS; 2025 WC GS globe
+Alpine - Men's Giant Slalom,Loïc Meillard,SUI,0.2,0.25,0.2,
+Alpine - Men's Giant Slalom,Raphael Haaser,AUT,0.15,0.15,0.2,2025 world champ
+Alpine - Men's Giant Slalom,Henrik Kristoffersen,NOR,0.1,0.12,0.15,
+Alpine - Men's Giant Slalom,Atle Lie McGrath,NOR,0.08,0.1,0.15,
+Alpine - Men's Giant Slalom,Zan Kranjec,SLO,0.05,0.05,0.08,
+Alpine - Men's Giant Slalom,Filip Zubcic,CRO,0.05,0.03,0.07,
+Alpine - Men's Giant Slalom,River Radamus,USA,0.03,0.03,0.05,
+Alpine - Men's Slalom,Loïc Meillard,SUI,0.2,0.25,0.2,2025 world champ
+Alpine - Men's Slalom,Atle Lie McGrath,NOR,0.18,0.2,0.2,2025 worlds silver
+Alpine - Men's Slalom,Linus Straßer,GER,0.15,0.18,0.18,2025 worlds bronze
+Alpine - Men's Slalom,Henrik Kristoffersen,NOR,0.12,0.15,0.18,
+Alpine - Men's Slalom,Manuel Feller,AUT,0.1,0.1,0.12,
+Alpine - Men's Slalom,Clement Noel,FRA,0.1,0.07,0.08,2022 OLY slalom gold
+Alpine - Men's Slalom,Dave Ryding,GBR,0.05,0.03,0.05,Veteran outsider
+Alpine - Men's Super-G,Marco Odermatt,SUI,0.42,0.25,0.12,2025 World Champ by 1.00s; WC SG globe
+Alpine - Men's Super-G,Vincent Kriechmayr,AUT,0.2,0.22,0.2,2021 World Champ; SG specialist
+Alpine - Men's Super-G,Raphael Haaser,AUT,0.12,0.18,0.2,2025 Worlds silver; rising star
+Alpine - Men's Super-G,Alexis Pinturault,FRA,0.1,0.15,0.18,Multi-discipline threat
+Alpine - Men's Super-G,Matthias Mayer,AUT,0.08,0.12,0.15,If active/fit
+Alpine - Men's Super-G,Daniel Hemetsberger,AUT,0.04,0.06,0.1,
+Alpine - Men's Super-G,James Crawford,CAN,0.05,0.05,0.08,
+Alpine - Women's Downhill,Breezy Johnson,USA,0.25,0.22,0.18,2025 World Champion; in top form
+Alpine - Women's Downhill,Federica Brignone,ITA,0.22,0.2,0.15,2025 WC downhill globe winner
+Alpine - Women's Downhill,Sofia Goggia,ITA,0.18,0.18,0.18,2018 OLY gold; dominant when healthy
+Alpine - Women's Downhill,Corinne Suter,SUI,0.12,0.15,0.18,2022 OLY champ
+Alpine - Women's Downhill,Mirjam Puchner,AUT,0.08,0.12,0.15,2025 Worlds silver
+Alpine - Women's Downhill,Cornelia Huetter,AUT,0.06,0.08,0.1,
+Alpine - Women's Downhill,Lara Gut-Behrami,SUI,0.05,0.05,0.08,
+Alpine - Women's Super-G,Lara Gut-Behrami,SUI,0.25,0.22,0.2,2025 WC SG globe; 2022 OLY gold
+Alpine - Women's Super-G,Stephanie Venier,AUT,0.22,0.25,0.2,2025 World Champion
+Alpine - Women's Super-G,Federica Brignone,ITA,0.2,0.22,0.22,2025 Worlds silver; overall WC winner
+Alpine - Women's Super-G,Marta Bassino,ITA,0.12,0.15,0.18,
+Alpine - Women's Super-G,Cornelia Huetter,AUT,0.08,0.08,0.1,
+Alpine - Women's Super-G,Ragnhild Mowinckel,NOR,0.07,0.07,0.08,
+Alpine - Women's Giant Slalom,Mikaela Shiffrin,USA,0.3,0.25,0.15,2022 OLY GS gold
+Alpine - Women's Giant Slalom,Federica Brignone,ITA,0.25,0.25,0.2,2025 worlds gold
+Alpine - Women's Giant Slalom,Sara Hector,SWE,0.15,0.18,0.18,2022 OLY GS gold
+Alpine - Women's Giant Slalom,Marta Bassino,ITA,0.12,0.15,0.18,2021 world champ
+Alpine - Women's Giant Slalom,Lara Gut-Behrami,SUI,0.1,0.12,0.16,
+Alpine - Women's Giant Slalom,Tessa Worley,FRA,0.05,0.08,0.1,If active/fit
+Alpine - Women's Slalom,Mikaela Shiffrin,USA,0.3,0.2,0.15,All-time slalom great
+Alpine - Women's Slalom,Wendy Holdener,SUI,0.2,0.25,0.2,2025 worlds silver
+Alpine - Women's Slalom,Camille Rast,SUI,0.1,0.15,0.2,2025 worlds gold
+Alpine - Women's Slalom,Katharina Liensberger,AUT,0.15,0.18,0.2,2021 world champ
+Alpine - Women's Slalom,Petra Vlhova,SVK,0.15,0.15,0.15,2022 OLY slalom gold
+Alpine - Women's Slalom,Anna Swenn-Larsson,SWE,0.05,0.07,0.1,
+Alpine - Men's Team Combined,Team Switzerland,SUI,0.55,0.25,0.12,2025 Worlds: swept 1-2-3; unmatched depth
+Alpine - Men's Team Combined,Team Austria,AUT,0.18,0.3,0.25,
+Alpine - Men's Team Combined,Team Norway,NOR,0.12,0.2,0.22,
+Alpine - Men's Team Combined,Team Italy,ITA,0.08,0.15,0.2,
+Alpine - Men's Team Combined,Team USA,USA,0.05,0.08,0.15,Cochran-Siegle/Ritchie 4th at Worlds
+Alpine - Women's Team Combined,Team USA,USA,0.3,0.25,0.2,"Shiffrin + speedster (e.g., Johnson)"
+Alpine - Women's Team Combined,Team Switzerland,SUI,0.25,0.25,0.2,Holdener + Gut
+Alpine - Women's Team Combined,Team Austria,AUT,0.2,0.2,0.2,Liensberger + Venier
+Alpine - Women's Team Combined,Team Italy,ITA,0.15,0.15,0.2,
+Alpine - Women's Team Combined,Team Germany,GER,0.1,0.1,0.15,
+Biathlon - Men's Sprint,Sturla Holm Lægreid,NOR,0.35,0.28,0.18,2025 overall WC winner
+Biathlon - Men's Sprint,Vetle S. Christiansen,NOR,0.22,0.25,0.22,
+Biathlon - Men's Sprint,Quentin Fillon Maillet,FRA,0.18,0.2,0.22,
+Biathlon - Men's Sprint,Johannes Thingnes Bø,NOR,0.12,0.15,0.18,Retired but may return for Olympics
+Biathlon - Men's Sprint,Tarjei Bø,NOR,0.08,0.1,0.12,
+Biathlon - Men's Sprint,Benedikt Doll,GER,0.05,0.06,0.1,
+Biathlon - Men's Pursuit,Sturla Holm Lægreid,NOR,0.35,0.28,0.18,2025 overall + pursuit winner
+Biathlon - Men's Pursuit,Vetle S. Christiansen,NOR,0.22,0.25,0.22,
+Biathlon - Men's Pursuit,Quentin Fillon Maillet,FRA,0.18,0.2,0.22,
+Biathlon - Men's Pursuit,Johannes Thingnes Bø,NOR,0.12,0.15,0.18,Retired but may return
+Biathlon - Men's Pursuit,Emilien Jacquelin,FRA,0.08,0.1,0.14,
+Biathlon - Men's Individual 20km,Sturla Holm Lægreid,NOR,0.32,0.28,0.18,2025 overall WC winner
+Biathlon - Men's Individual 20km,Vetle S. Christiansen,NOR,0.22,0.25,0.22,
+Biathlon - Men's Individual 20km,Quentin Fillon Maillet,FRA,0.18,0.2,0.22,
+Biathlon - Men's Individual 20km,Johannes Thingnes Bø,NOR,0.12,0.15,0.18,Retired but Olympic potential
+Biathlon - Men's Individual 20km,Tommaso Giacomel,ITA,0.1,0.12,0.15,
+Biathlon - Men's Mass Start,Sturla Holm Lægreid,NOR,0.32,0.28,0.18,2025 overall WC winner
+Biathlon - Men's Mass Start,Vetle S. Christiansen,NOR,0.22,0.25,0.22,
+Biathlon - Men's Mass Start,Quentin Fillon Maillet,FRA,0.18,0.2,0.22,
+Biathlon - Men's Mass Start,Johannes Thingnes Bø,NOR,0.12,0.15,0.18,Retired but may return
+Biathlon - Men's Mass Start,Tarjei Bø,NOR,0.1,0.12,0.14,
+Biathlon - Men's 4x7.5km Relay,Team Norway,NOR,0.45,0.3,0.15,Favorites despite 2024 Worlds loss
+Biathlon - Men's 4x7.5km Relay,Team Sweden,SWE,0.35,0.3,0.2,2024 World Champions
+Biathlon - Men's 4x7.5km Relay,Team France,FRA,0.1,0.2,0.25,
+Biathlon - Men's 4x7.5km Relay,Team Germany,GER,0.07,0.12,0.2,
+Biathlon - Men's 4x7.5km Relay,Team Italy,ITA,0.03,0.08,0.15,
+Biathlon - Women's Sprint,Franziska Preuß,GER,0.28,0.25,0.2,2025 overall WC + sprint globe winner
+Biathlon - Women's Sprint,Julia Simon,FRA,0.22,0.22,0.2,
+Biathlon - Women's Sprint,Justine Braisaz-Bouchet,FRA,0.18,0.2,0.18,
+Biathlon - Women's Sprint,Elvira Öberg,SWE,0.15,0.18,0.2,
+Biathlon - Women's Sprint,Lou Jeanmonnot,FRA,0.1,0.12,0.15,
+Biathlon - Women's Sprint,Lisa Vittozzi,ITA,0.05,0.08,0.12,
+Biathlon - Women's Pursuit,Lou Jeanmonnot,FRA,0.28,0.25,0.2,2025 pursuit globe winner
+Biathlon - Women's Pursuit,Franziska Preuß,GER,0.25,0.25,0.2,2025 overall WC winner
+Biathlon - Women's Pursuit,Justine Braisaz-Bouchet,FRA,0.18,0.2,0.2,
+Biathlon - Women's Pursuit,Elvira Öberg,SWE,0.15,0.18,0.2,
+Biathlon - Women's Pursuit,Julia Simon,FRA,0.1,0.12,0.15,
+Biathlon - Women's Individual 15km,Lisa Vittozzi,ITA,0.25,0.25,0.2,Shooting ace; 2024 Worlds gold
+Biathlon - Women's Individual 15km,Franziska Preuß,GER,0.22,0.22,0.2,2025 overall WC winner
+Biathlon - Women's Individual 15km,Hanna Öberg,SWE,0.18,0.2,0.2,
+Biathlon - Women's Individual 15km,Julia Simon,FRA,0.15,0.18,0.18,
+Biathlon - Women's Individual 15km,Justine Braisaz-Bouchet,FRA,0.12,0.15,0.18,
+Biathlon - Women's Mass Start,Franziska Preuß,GER,0.28,0.25,0.2,2025 overall + mass start winner
+Biathlon - Women's Mass Start,Justine Braisaz-Bouchet,FRA,0.25,0.25,0.2,Strong closer
+Biathlon - Women's Mass Start,Elvira Öberg,SWE,0.18,0.2,0.2,
+Biathlon - Women's Mass Start,Julia Simon,FRA,0.15,0.18,0.18,
+Biathlon - Women's Mass Start,Lisa Vittozzi,ITA,0.1,0.12,0.15,
+Biathlon - Women's 4x6km Relay,Team France,FRA,0.4,0.3,0.15,World champions
+Biathlon - Women's 4x6km Relay,Team Sweden,SWE,0.3,0.3,0.2,
+Biathlon - Women's 4x6km Relay,Team Germany,GER,0.12,0.15,0.2,
+Biathlon - Women's 4x6km Relay,Team Italy,ITA,0.1,0.15,0.2,
+Biathlon - Women's 4x6km Relay,Team Norway,NOR,0.08,0.1,0.15,
+Biathlon - Mixed 4x6km Relay,Team France,FRA,0.35,0.25,0.2,
+Biathlon - Mixed 4x6km Relay,Team Norway,NOR,0.3,0.25,0.2,
+Biathlon - Mixed 4x6km Relay,Team Sweden,SWE,0.15,0.2,0.2,
+Biathlon - Mixed 4x6km Relay,Team Germany,GER,0.1,0.15,0.2,
+Biathlon - Mixed 4x6km Relay,Team Italy,ITA,0.1,0.15,0.2,
+Bobsleigh - 2-Man,Francesco Friedrich,GER,0.5,0.25,0.15,Two-time defending OLY champ
+Bobsleigh - 2-Man,Johannes Lochner,GER,0.25,0.3,0.2,
+Bobsleigh - 2-Man,Brad Hall,GBR,0.12,0.2,0.25,Strong WC form
+Bobsleigh - 2-Man,Oskars Kibermanis,LAT,0.05,0.12,0.18,
+Bobsleigh - 2-Man,Justin Kripps,CAN,0.03,0.08,0.12,If active/fit
+Bobsleigh - 4-Man,Francesco Friedrich,GER,0.45,0.3,0.15,
+Bobsleigh - 4-Man,Johannes Lochner,GER,0.25,0.3,0.2,
+Bobsleigh - 4-Man,Brad Hall,GBR,0.15,0.2,0.25,
+Bobsleigh - 4-Man,Oskars Melbardis,LAT,0.05,0.1,0.15,If active/fit
+Bobsleigh - 4-Man,Team Canada (Appiah),CAN,0.05,0.1,0.15,
+Bobsleigh - 2-Woman,Laura Nolte,GER,0.35,0.3,0.2,
+Bobsleigh - 2-Woman,Kim Kalicki,GER,0.25,0.25,0.2,
+Bobsleigh - 2-Woman,Kaillie Humphries,USA,0.2,0.2,0.2,
+Bobsleigh - 2-Woman,Christine de Bruin,CAN,0.1,0.12,0.15,
+Bobsleigh - 2-Woman,Melfe/Markl (AUT),AUT,0.05,0.08,0.12,
+Bobsleigh - Monobob (Women),Laura Nolte,GER,0.3,0.25,0.2,
+Bobsleigh - Monobob (Women),Kaillie Humphries,USA,0.25,0.25,0.2,2022 OLY gold
+Bobsleigh - Monobob (Women),Elana Meyers Taylor,USA,0.15,0.18,0.2,If active/fit
+Bobsleigh - Monobob (Women),Cynthia Appiah,CAN,0.12,0.15,0.18,
+Bobsleigh - Monobob (Women),Adele Nicoll,GBR,0.1,0.12,0.15,Rising pilot
+Skeleton - Men,Christopher Grotheer,GER,0.25,0.25,0.2,2022 OLY gold
+Skeleton - Men,Axel Jungk,GER,0.2,0.22,0.2,
+Skeleton - Men,Matt Weston,GBR,0.2,0.2,0.2,2023 World Champ
+Skeleton - Men,Wengang Yan,CHN,0.12,0.15,0.18,
+Skeleton - Men,Seunggi Jung,KOR,0.08,0.1,0.12,
+Skeleton - Women,Hannah Neise,GER,0.22,0.22,0.2,2022 OLY gold
+Skeleton - Women,Tina Hermann,GER,0.2,0.22,0.2,
+Skeleton - Women,Hallie Clarke,CAN,0.2,0.2,0.2,2023 World Champ
+Skeleton - Women,Kimberley Bos,NED,0.15,0.18,0.18,
+Skeleton - Women,Brogan Crowley,GBR,0.08,0.1,0.12,
+Skeleton - Mixed Team,Team Germany,GER,0.4,0.3,0.15,
+Skeleton - Mixed Team,Team Great Britain,GBR,0.2,0.25,0.2,
+Skeleton - Mixed Team,Team Canada,CAN,0.15,0.2,0.2,
+Skeleton - Mixed Team,Team Latvia,LAT,0.12,0.15,0.18,
+Skeleton - Mixed Team,Team Austria,AUT,0.08,0.1,0.15,
+Cross-Country - Men's Sprint (CL),Johannes Høsflot Klæbo,NOR,0.4,0.25,0.15,
+Cross-Country - Men's Sprint (CL),Pål Golberg,NOR,0.18,0.22,0.2,
+Cross-Country - Men's Sprint (CL),Jules Chappaz,FRA,0.1,0.15,0.2,
+Cross-Country - Men's Sprint (CL),Federico Pellegrino,ITA,0.08,0.12,0.18,
+Cross-Country - Men's Sprint (CL),Richard Jouve,FRA,0.06,0.1,0.15,
+Cross-Country - Men's 15km (FR),Simen Hegstad Krüger,NOR,0.3,0.25,0.2,
+Cross-Country - Men's 15km (FR),Harald Østberg Amundsen,NOR,0.18,0.22,0.2,
+Cross-Country - Men's 15km (FR),Hans Christer Holund,NOR,0.15,0.18,0.18,
+Cross-Country - Men's 15km (FR),Iivo Niskanen,FIN,0.12,0.15,0.18,
+Cross-Country - Men's 15km (FR),William Poromaa,SWE,0.08,0.1,0.12,
+Cross-Country - Men's Skiathlon,Simen Hegstad Krüger,NOR,0.35,0.25,0.18,
+Cross-Country - Men's Skiathlon,Johannes Høsflot Klæbo,NOR,0.2,0.22,0.2,
+Cross-Country - Men's Skiathlon,Hans Christer Holund,NOR,0.12,0.15,0.2,
+Cross-Country - Men's Skiathlon,Didrik Tønseth,NOR,0.1,0.12,0.15,
+Cross-Country - Men's Skiathlon,William Poromaa,SWE,0.08,0.1,0.15,
+Cross-Country - Men's 50km (CL),Pål Golberg,NOR,0.3,0.25,0.2,2023 world champ 50k CL
+Cross-Country - Men's 50km (CL),Johannes Høsflot Klæbo,NOR,0.18,0.22,0.2,
+Cross-Country - Men's 50km (CL),Iivo Niskanen,FIN,0.15,0.18,0.18,
+Cross-Country - Men's 50km (CL),Alexander Bolshunov (AIN),AIN,0.12,0.15,0.18,Eligibility TBD
+Cross-Country - Men's 50km (CL),William Poromaa,SWE,0.08,0.1,0.12,
+Cross-Country - Men's 4x10km Relay,Team Norway,NOR,0.6,0.25,0.1,Heavy favorites
+Cross-Country - Men's 4x10km Relay,Team Finland,FIN,0.15,0.25,0.25,
+Cross-Country - Men's 4x10km Relay,Team Sweden,SWE,0.1,0.2,0.25,
+Cross-Country - Men's 4x10km Relay,Team France,FRA,0.08,0.15,0.22,
+Cross-Country - Men's 4x10km Relay,Team Italy,ITA,0.07,0.12,0.18,
+Cross-Country - Men's Team Sprint,Team Norway,NOR,0.45,0.3,0.15,Klaebo + Golberg combo
+Cross-Country - Men's Team Sprint,Team Sweden,SWE,0.18,0.22,0.2,
+Cross-Country - Men's Team Sprint,Team France,FRA,0.12,0.18,0.22,
+Cross-Country - Men's Team Sprint,Team Italy,ITA,0.1,0.15,0.2,
+Cross-Country - Men's Team Sprint,Team Finland,FIN,0.08,0.1,0.15,
+Cross-Country - Women's Sprint (CL),Jonna Sundling,SWE,0.35,0.25,0.18,
+Cross-Country - Women's Sprint (CL),Emma Ribom,SWE,0.2,0.25,0.2,
+Cross-Country - Women's Sprint (CL),Maja Dahlqvist,SWE,0.15,0.18,0.2,
+Cross-Country - Women's Sprint (CL),Tiril Udnes Weng,NOR,0.12,0.15,0.18,
+Cross-Country - Women's Sprint (CL),Jessie Diggins,USA,0.1,0.12,0.15,
+Cross-Country - Women's 10km (FR),Jessie Diggins,USA,0.25,0.25,0.2,2023 world champ 10k FR
+Cross-Country - Women's 10km (FR),Ebba Andersson,SWE,0.22,0.25,0.2,
+Cross-Country - Women's 10km (FR),Frida Karlsson,SWE,0.18,0.2,0.2,
+Cross-Country - Women's 10km (FR),Kerttu Niskanen,FIN,0.12,0.15,0.18,
+Cross-Country - Women's 10km (FR),Rosie Brennan,USA,0.08,0.1,0.12,
+Cross-Country - Women's Skiathlon,Ebba Andersson,SWE,0.3,0.25,0.2,
+Cross-Country - Women's Skiathlon,Frida Karlsson,SWE,0.2,0.22,0.2,
+Cross-Country - Women's Skiathlon,Jessie Diggins,USA,0.15,0.18,0.18,
+Cross-Country - Women's Skiathlon,Astrid Øyre Slind,NOR,0.12,0.15,0.18,
+Cross-Country - Women's Skiathlon,Heidi Weng,NOR,0.08,0.1,0.15,
+Cross-Country - Women's 30km (CL),Ebba Andersson,SWE,0.3,0.25,0.2,
+Cross-Country - Women's 30km (CL),Frida Karlsson,SWE,0.2,0.22,0.2,
+Cross-Country - Women's 30km (CL),Anne Kjersti Kalvå,NOR,0.15,0.18,0.18,
+Cross-Country - Women's 30km (CL),Therese Johaug,NOR,0.1,0.12,0.15,If active/fit
+Cross-Country - Women's 30km (CL),Kerttu Niskanen,FIN,0.08,0.1,0.15,
+Cross-Country - Women's 4x5km Relay,Team Sweden,SWE,0.4,0.3,0.15,
+Cross-Country - Women's 4x5km Relay,Team Norway,NOR,0.35,0.3,0.2,
+Cross-Country - Women's 4x5km Relay,Team Germany,GER,0.12,0.15,0.2,
+Cross-Country - Women's 4x5km Relay,Team USA,USA,0.08,0.12,0.18,
+Cross-Country - Women's 4x5km Relay,Team Finland,FIN,0.05,0.1,0.15,
+Cross-Country - Women's Team Sprint,Team Sweden,SWE,0.4,0.3,0.15,Ribom + Sundling
+Cross-Country - Women's Team Sprint,Team Norway,NOR,0.25,0.3,0.2,
+Cross-Country - Women's Team Sprint,Team Germany,GER,0.12,0.15,0.2,
+Cross-Country - Women's Team Sprint,Team USA,USA,0.12,0.15,0.18,
+Cross-Country - Women's Team Sprint,Team Finland,FIN,0.11,0.1,0.15,
+Curling - Men's Tournament,Team GB (Scotland - Mouat),GBR,0.3,0.25,0.2,World/Euro champs form
+Curling - Men's Tournament,Team Canada (Gushue),CAN,0.25,0.25,0.2,
+Curling - Men's Tournament,Team Sweden,SWE,0.18,0.2,0.2,
+Curling - Men's Tournament,Team Switzerland,SUI,0.12,0.18,0.22,
+Curling - Men's Tournament,Team Italy,ITA,0.08,0.12,0.15,Hosts
+Curling - Women's Tournament,Team Switzerland (Tirinzoni),SUI,0.3,0.25,0.2,Multiple world titles
+Curling - Women's Tournament,Team Canada (Einarson),CAN,0.22,0.25,0.2,
+Curling - Women's Tournament,Team Sweden (Hasselborg),SWE,0.2,0.22,0.2,
+Curling - Women's Tournament,Team Norway,NOR,0.1,0.15,0.2,
+Curling - Women's Tournament,Team USA,USA,0.08,0.12,0.18,
+Curling - Mixed Doubles,Team Italy (Constantini/Mosaner),ITA,0.25,0.25,0.2,2022 OLY champs
+Curling - Mixed Doubles,Team USA,USA,0.2,0.22,0.2,2023 World Champs
+Curling - Mixed Doubles,Team Canada,CAN,0.18,0.2,0.2,
+Curling - Mixed Doubles,Team GB,GBR,0.15,0.18,0.2,
+Curling - Mixed Doubles,Team Sweden,SWE,0.12,0.15,0.18,
+Figure Skating - Men's Singles,Ilia Malinin,USA,0.3,0.25,0.15,2024 World Champ
+Figure Skating - Men's Singles,Yuma Kagiyama,JPN,0.25,0.25,0.2,
+Figure Skating - Men's Singles,Shoma Uno,JPN,0.2,0.2,0.2,
+Figure Skating - Men's Singles,Adam Siao Him Fa,FRA,0.1,0.15,0.2,
+Figure Skating - Men's Singles,Jason Brown,USA,0.05,0.08,0.15,
+Figure Skating - Women's Singles,Alysa Liu,USA,0.28,0.25,0.18,2025 World Champion
+Figure Skating - Women's Singles,Kaori Sakamoto,JPN,0.25,0.25,0.2,2025 Worlds silver; 2x champion
+Figure Skating - Women's Singles,Isabeau Levito,USA,0.18,0.2,0.2,
+Figure Skating - Women's Singles,Lee Hae-In,KOR,0.12,0.15,0.18,
+Figure Skating - Women's Singles,Mone Chiba,JPN,0.1,0.12,0.15,2025 Worlds bronze
+Figure Skating - Women's Singles,Loena Hendrickx,BEL,0.05,0.08,0.12,
+Figure Skating - Pairs,Miura/Kihara,JPN,0.3,0.25,0.18,2023 World Champs
+Figure Skating - Pairs,Stellato/Deschamps,CAN,0.25,0.25,0.2,2024 World Champs
+Figure Skating - Pairs,Hase/Volodin,GER,0.15,0.18,0.22,
+Figure Skating - Pairs,Conti/Macii,ITA,0.12,0.15,0.2,
+Figure Skating - Pairs,Peng/Jin,CHN,0.1,0.12,0.15,
+Figure Skating - Ice Dance,Chock/Bates,USA,0.4,0.25,0.15,Back-to-back World Champs
+Figure Skating - Ice Dance,Gilles/Poirier,CAN,0.22,0.25,0.2,
+Figure Skating - Ice Dance,Guignard/Fabbri,ITA,0.2,0.22,0.2,
+Figure Skating - Ice Dance,Fear/Gibson,GBR,0.08,0.12,0.18,
+Figure Skating - Ice Dance,Lajoie/Lagha,CAN,0.05,0.08,0.15,
+Figure Skating - Team Event,Team USA,USA,0.4,0.25,0.15,Deep across disciplines
+Figure Skating - Team Event,Team Japan,JPN,0.25,0.25,0.2,
+Figure Skating - Team Event,Team Canada,CAN,0.18,0.2,0.22,
+Figure Skating - Team Event,Team Italy,ITA,0.1,0.15,0.2,
+Figure Skating - Team Event,Team South Korea,KOR,0.07,0.1,0.15,
+Freestyle - Men's Moguls,Ikuma Horishima,JPN,0.35,0.28,0.2,2025 World Champion
+Freestyle - Men's Moguls,Mikaël Kingsbury,CAN,0.3,0.28,0.18,2025 Worlds silver; all-time great
+Freestyle - Men's Moguls,Matt Graham,AUS,0.12,0.18,0.22,2025 Worlds bronze
+Freestyle - Men's Moguls,Walter Wallberg,SWE,0.1,0.15,0.2,
+Freestyle - Men's Moguls,Pavel Kolmakov,KAZ,0.08,0.1,0.15,
+Freestyle - Women's Moguls,Perrine Laffont,FRA,0.35,0.28,0.2,2025 World Champ (3rd title)
+Freestyle - Women's Moguls,Jakara Anthony,AUS,0.25,0.25,0.2,2022 OLY gold
+Freestyle - Women's Moguls,Hinako Tomitaka,JPN,0.15,0.2,0.22,2025 Worlds silver
+Freestyle - Women's Moguls,Jaelin Kauf,USA,0.12,0.15,0.2,
+Freestyle - Women's Moguls,Anri Kawamura,JPN,0.08,0.1,0.15,
+Freestyle - Men's Dual Moguls,Ikuma Horishima,JPN,0.35,0.25,0.18,
+Freestyle - Men's Dual Moguls,Mikaël Kingsbury,CAN,0.28,0.25,0.18,
+Freestyle - Men's Dual Moguls,Walter Wallberg,SWE,0.12,0.18,0.22,
+Freestyle - Men's Dual Moguls,Matt Graham,AUS,0.1,0.15,0.2,
+Freestyle - Men's Dual Moguls,Filip Gravenfors,SWE,0.05,0.08,0.15,
+Freestyle - Women's Dual Moguls,Jaelin Kauf,USA,0.32,0.28,0.2,2025 World Champion
+Freestyle - Women's Dual Moguls,Tess Johnson,USA,0.25,0.28,0.22,2025 Worlds silver
+Freestyle - Women's Dual Moguls,Perrine Laffont,FRA,0.18,0.2,0.2,
+Freestyle - Women's Dual Moguls,Jakara Anthony,AUS,0.12,0.15,0.18,
+Freestyle - Women's Dual Moguls,Anastassiya Gorodko,KAZ,0.08,0.1,0.15,2025 Worlds bronze
+Freestyle - Men's Aerials,Noé Roth,SUI,0.3,0.25,0.2,2025 World Champ; record score
+Freestyle - Men's Aerials,Quinn Dehlinger,USA,0.22,0.28,0.22,2025 Worlds silver (2nd straight)
+Freestyle - Men's Aerials,Qi Guangpu,CHN,0.18,0.2,0.2,2022 OLY gold
+Freestyle - Men's Aerials,Chris Lillis,USA,0.15,0.18,0.2,
+Freestyle - Men's Aerials,Dmytro Kotovskyi,UKR,0.1,0.12,0.15,
+Freestyle - Women's Aerials,Kaila Kuhn,USA,0.28,0.25,0.2,2025 World Champion
+Freestyle - Women's Aerials,Xu Mengtao,CHN,0.22,0.28,0.22,2025 Worlds silver; 2022 OLY gold
+Freestyle - Women's Aerials,Danielle Scott,AUS,0.2,0.22,0.22,2025 Worlds bronze
+Freestyle - Women's Aerials,Marion Thénault,CAN,0.15,0.18,0.18,
+Freestyle - Women's Aerials,Laura Peel,AUS,0.1,0.12,0.15,
+Freestyle - Mixed Team Aerials,Team USA,USA,0.4,0.28,0.18,2025 World Champs; dominant team
+Freestyle - Mixed Team Aerials,Team Ukraine,UKR,0.22,0.28,0.22,2025 Worlds silver
+Freestyle - Mixed Team Aerials,Team Switzerland,SUI,0.15,0.2,0.22,2025 Worlds bronze
+Freestyle - Mixed Team Aerials,Team China,CHN,0.12,0.15,0.2,
+Freestyle - Mixed Team Aerials,Team Australia,AUS,0.08,0.1,0.15,
+Freestyle - Men's Ski Cross,Reece Howden,CAN,0.35,0.28,0.2,2025 WC Crystal Globe winner
+Freestyle - Men's Ski Cross,David Mobärg,SWE,0.18,0.22,0.2,
+Freestyle - Men's Ski Cross,Bastien Midol,FRA,0.12,0.18,0.22,
+Freestyle - Men's Ski Cross,Ryan Regez,SUI,0.1,0.15,0.2,
+Freestyle - Men's Ski Cross,Florian Wilmsmann,GER,0.08,0.1,0.15,
+Freestyle - Women's Ski Cross,Sandra Näslund,SWE,0.55,0.2,0.1,Dominant
+Freestyle - Women's Ski Cross,Fanny Smith,SUI,0.15,0.22,0.25,
+Freestyle - Women's Ski Cross,Marielle Thompson,CAN,0.12,0.2,0.25,
+Freestyle - Women's Ski Cross,Brittany Phelan,CAN,0.08,0.15,0.2,
+Freestyle - Women's Ski Cross,Alizée Baron,FRA,0.05,0.1,0.15,
+Freestyle - Men's Halfpipe (Ski),Nico Porteous,NZL,0.3,0.25,0.18,
+Freestyle - Men's Halfpipe (Ski),Alex Ferreira,USA,0.22,0.25,0.2,
+Freestyle - Men's Halfpipe (Ski),David Wise,USA,0.18,0.2,0.2,
+Freestyle - Men's Halfpipe (Ski),Brendan Mackay,CAN,0.12,0.15,0.18,
+Freestyle - Men's Halfpipe (Ski),Birk Irving,USA,0.1,0.12,0.15,
+Freestyle - Women's Halfpipe (Ski),Eileen Gu,CHN,0.4,0.25,0.15,If competing
+Freestyle - Women's Halfpipe (Ski),Rachael Karker,CAN,0.22,0.25,0.2,
+Freestyle - Women's Halfpipe (Ski),Zoe Atkin,GBR,0.18,0.2,0.2,
+Freestyle - Women's Halfpipe (Ski),Kelly Sildaru,EST,0.1,0.15,0.2,If healthy
+Freestyle - Women's Halfpipe (Ski),Sabrina Cakmakli,GER,0.05,0.08,0.15,
+Freestyle - Men's Slopestyle (Ski),Alex Hall,USA,0.22,0.25,0.2,2022 OLY gold
+Freestyle - Men's Slopestyle (Ski),Andri Ragettli,SUI,0.2,0.22,0.2,
+Freestyle - Men's Slopestyle (Ski),Birk Ruud,NOR,0.18,0.2,0.2,
+Freestyle - Men's Slopestyle (Ski),Colby Stevenson,USA,0.12,0.15,0.18,
+Freestyle - Men's Slopestyle (Ski),Mac Forehand,USA,0.1,0.12,0.15,
+Freestyle - Men's Big Air (Ski),Birk Ruud,NOR,0.25,0.25,0.2,2022 OLY gold
+Freestyle - Men's Big Air (Ski),Andri Ragettli,SUI,0.2,0.22,0.2,
+Freestyle - Men's Big Air (Ski),Colby Stevenson,USA,0.15,0.18,0.2,
+Freestyle - Men's Big Air (Ski),Alex Hall,USA,0.12,0.15,0.18,
+Freestyle - Men's Big Air (Ski),Matej Svancer,AUT,0.1,0.12,0.15,
+Freestyle - Women's Slopestyle (Ski),Mathilde Gremaud,SUI,0.3,0.25,0.18,2022 OLY gold
+Freestyle - Women's Slopestyle (Ski),Eileen Gu,CHN,0.25,0.25,0.18,If competing
+Freestyle - Women's Slopestyle (Ski),Kirsty Muir,GBR,0.15,0.18,0.2,
+Freestyle - Women's Slopestyle (Ski),Megan Oldham,CAN,0.12,0.15,0.2,
+Freestyle - Women's Slopestyle (Ski),Kelly Sildaru,EST,0.1,0.12,0.15,
+Freestyle - Women's Big Air (Ski),Eileen Gu,CHN,0.35,0.25,0.15,2022 OLY gold
+Freestyle - Women's Big Air (Ski),Tess Ledeux,FRA,0.22,0.25,0.2,
+Freestyle - Women's Big Air (Ski),Mathilde Gremaud,SUI,0.18,0.2,0.2,
+Freestyle - Women's Big Air (Ski),Megan Oldham,CAN,0.12,0.15,0.2,
+Freestyle - Women's Big Air (Ski),Kirsty Muir,GBR,0.08,0.1,0.15,
+Ice Hockey - Men's Tournament,Team Canada,CAN,0.35,0.3,0.2,Assuming NHL participation
+Ice Hockey - Men's Tournament,Team USA,USA,0.25,0.3,0.25,
+Ice Hockey - Men's Tournament,Team Sweden,SWE,0.15,0.2,0.25,
+Ice Hockey - Men's Tournament,Team Finland,FIN,0.15,0.15,0.2,
+Ice Hockey - Men's Tournament,Team Czechia,CZE,0.05,0.05,0.08,
+Ice Hockey - Women's Tournament,Team Canada,CAN,0.55,0.4,0.05,USA rivalry
+Ice Hockey - Women's Tournament,Team USA,USA,0.45,0.5,0.05,
+Ice Hockey - Women's Tournament,Team Finland,FIN,0.0,0.05,0.5,Bronze favorites
+Ice Hockey - Women's Tournament,Team Czechia,CZE,0.0,0.03,0.25,
+Ice Hockey - Women's Tournament,Team Switzerland,SUI,0.0,0.02,0.15,
+Luge - Men's Singles,Max Langenhan,GER,0.35,0.25,0.18,
+Luge - Men's Singles,Dominik Fischnaller,ITA,0.3,0.25,0.2,2023 world champ
+Luge - Men's Singles,Felix Loch,GER,0.15,0.18,0.18,
+Luge - Men's Singles,Wolfgang Kindl,AUT,0.1,0.15,0.18,
+Luge - Men's Singles,Jonas Müller,AUT,0.05,0.1,0.15,
+Luge - Women's Singles,Julia Taubitz,GER,0.35,0.25,0.18,
+Luge - Women's Singles,Anna Berreiter,GER,0.3,0.25,0.2,
+Luge - Women's Singles,Madeleine Egle,AUT,0.15,0.2,0.2,
+Luge - Women's Singles,Elina Ieva Vitola,LAT,0.1,0.15,0.18,
+Luge - Women's Singles,Summer Britcher,USA,0.05,0.08,0.15,
+Luge - Men's Doubles,Eggert/Benecken,GER,0.4,0.25,0.18,
+Luge - Men's Doubles,Steu/Koller,AUT,0.2,0.25,0.2,
+Luge - Men's Doubles,Bots/Plume,LAT,0.15,0.2,0.22,
+Luge - Men's Doubles,Gough/Walker,CAN,0.1,0.15,0.2,
+Luge - Men's Doubles,U.S. top pair,USA,0.05,0.1,0.15,
+Luge - Women's Doubles,Degenhardt/Rosenthal,GER,0.5,0.25,0.15,
+Luge - Women's Doubles,Vötter/Oberhofer,ITA,0.2,0.25,0.2,
+Luge - Women's Doubles,Farquharson/Thornton,USA,0.15,0.2,0.22,
+Luge - Women's Doubles,Egle/Kipp,AUT,0.1,0.15,0.18,
+Luge - Women's Doubles,Latvia top pair,LAT,0.05,0.1,0.15,
+Luge - Team Relay,Team Germany,GER,0.6,0.25,0.1,
+Luge - Team Relay,Team Austria,AUT,0.15,0.3,0.25,
+Luge - Team Relay,Team Latvia,LAT,0.1,0.2,0.25,
+Luge - Team Relay,Team Italy,ITA,0.08,0.15,0.22,
+Luge - Team Relay,Team Canada,CAN,0.07,0.1,0.18,
+Nordic Combined - Individual NH,Vinzenz Geiger,GER,0.28,0.24,0.18,Beijing 2022 gold medalist
+Nordic Combined - Individual NH,Julian Schmid,GER,0.22,0.22,0.2,2024-25 World Cup leader
+Nordic Combined - Individual NH,Johannes Lamparter,AUT,0.2,0.22,0.2,2024-25 WC 3rd place
+Nordic Combined - Individual NH,Jens Lurås Oftebro,NOR,0.15,0.18,0.2,
+Nordic Combined - Individual NH,Stefan Rettenegger,AUT,0.1,0.12,0.18,
+Nordic Combined - Individual NH,Ryota Yamamoto,JPN,0.04,0.08,0.12,
+Nordic Combined - Individual LH,Vinzenz Geiger,GER,0.28,0.24,0.18,Beijing 2022 gold + strong current form
+Nordic Combined - Individual LH,Julian Schmid,GER,0.22,0.22,0.2,2024-25 World Cup leader
+Nordic Combined - Individual LH,Johannes Lamparter,AUT,0.2,0.22,0.2,2024-25 WC 3rd place
+Nordic Combined - Individual LH,Jens Lurås Oftebro,NOR,0.15,0.18,0.2,
+Nordic Combined - Individual LH,Stefan Rettenegger,AUT,0.1,0.12,0.18,
+Nordic Combined - Individual LH,Manuel Faißt,GER,0.04,0.08,0.12,
+Nordic Combined - Team (4x5km),Team Germany,GER,0.38,0.32,0.22,Dominant 2024-25 season
+Nordic Combined - Team (4x5km),Team Austria,AUT,0.28,0.3,0.26,Strong depth
+Nordic Combined - Team (4x5km),Team Norway,NOR,0.2,0.24,0.24,Weakened by retirements
+Nordic Combined - Team (4x5km),Team Japan,JPN,0.08,0.1,0.16,
+Nordic Combined - Team (4x5km),Team Finland,FIN,0.05,0.06,0.1,4th in 2024-25 Nations Cup
+Short Track - Men's 500m,William Dandjinou,CAN,0.3,0.25,0.2,2025 overall World Tour winner
+Short Track - Men's 500m,Hwang Dae-heon,KOR,0.22,0.22,0.2,
+Short Track - Men's 500m,Shaoang Liu,HUN,0.18,0.2,0.2,2022 OLY gold
+Short Track - Men's 500m,Ren Ziwei,CHN,0.15,0.18,0.2,
+Short Track - Men's 500m,Park Ji-won,KOR,0.1,0.12,0.15,
+Short Track - Men's 1000m,William Dandjinou,CAN,0.3,0.25,0.18,2025 overall World Tour winner
+Short Track - Men's 1000m,Hwang Dae-heon,KOR,0.25,0.25,0.2,
+Short Track - Men's 1000m,Ren Ziwei,CHN,0.18,0.2,0.2,2022 OLY gold
+Short Track - Men's 1000m,Park Ji-won,KOR,0.15,0.18,0.2,
+Short Track - Men's 1000m,Pietro Sighel,ITA,0.08,0.12,0.15,
+Short Track - Men's 1500m,Hwang Dae-heon,KOR,0.3,0.22,0.18,2022 OLY gold (1500)
+Short Track - Men's 1500m,Park Ji-won,KOR,0.22,0.22,0.2,
+Short Track - Men's 1500m,Ren Ziwei,CHN,0.18,0.2,0.2,
+Short Track - Men's 1500m,Adil Galiakhmetov,KAZ,0.1,0.15,0.2,
+Short Track - Men's 1500m,Jens van 't Wout,NED,0.08,0.12,0.15,
+Short Track - Men's 5000m Relay,Team Korea,KOR,0.4,0.25,0.15,
+Short Track - Men's 5000m Relay,Team China,CHN,0.2,0.25,0.2,
+Short Track - Men's 5000m Relay,Team Canada,CAN,0.18,0.22,0.22,
+Short Track - Men's 5000m Relay,Team Netherlands,NED,0.12,0.15,0.2,
+Short Track - Men's 5000m Relay,Team Hungary,HUN,0.1,0.12,0.18,
+Short Track - Women's 500m,Kristen Santos-Griswold,USA,0.28,0.25,0.2,2025 overall World Tour winner
+Short Track - Women's 500m,Xandra Velzeboer,NED,0.22,0.25,0.22,
+Short Track - Women's 500m,Kim Boutin,CAN,0.18,0.2,0.18,
+Short Track - Women's 500m,Suzanne Schulting,NED,0.15,0.18,0.2,
+Short Track - Women's 500m,Choi Min-jeong,KOR,0.12,0.15,0.15,
+Short Track - Women's 1000m,Kristen Santos-Griswold,USA,0.3,0.28,0.18,2025 overall World Tour winner
+Short Track - Women's 1000m,Suzanne Schulting,NED,0.25,0.25,0.2,2022 OLY gold
+Short Track - Women's 1000m,Choi Min-jeong,KOR,0.2,0.22,0.2,
+Short Track - Women's 1000m,Xandra Velzeboer,NED,0.15,0.18,0.2,
+Short Track - Women's 1000m,Kim Boutin,CAN,0.08,0.12,0.15,
+Short Track - Women's 1500m,Choi Min-jeong,KOR,0.35,0.25,0.15,2022 OLY gold
+Short Track - Women's 1500m,Suzanne Schulting,NED,0.25,0.25,0.18,
+Short Track - Women's 1500m,Kim Gil-li,KOR,0.15,0.18,0.2,
+Short Track - Women's 1500m,Xiao Han,CHN,0.12,0.15,0.2,
+Short Track - Women's 1500m,Courtney Sarault,CAN,0.08,0.1,0.15,
+Short Track - Women's 3000m Relay,Team Netherlands,NED,0.35,0.25,0.15,2022 OLY gold
+Short Track - Women's 3000m Relay,Team Korea,KOR,0.3,0.25,0.18,
+Short Track - Women's 3000m Relay,Team China,CHN,0.15,0.2,0.22,
+Short Track - Women's 3000m Relay,Team Canada,CAN,0.12,0.15,0.2,
+Short Track - Women's 3000m Relay,Team Italy,ITA,0.08,0.1,0.15,
+Short Track - Mixed Team Relay,Team China,CHN,0.25,0.25,0.2,2022 OLY gold
+Short Track - Mixed Team Relay,Team Netherlands,NED,0.22,0.25,0.22,
+Short Track - Mixed Team Relay,Team Korea,KOR,0.22,0.22,0.22,
+Short Track - Mixed Team Relay,Team Hungary,HUN,0.15,0.15,0.18,
+Short Track - Mixed Team Relay,Team Canada,CAN,0.1,0.13,0.18,
+Ski Jumping - Men's Normal Hill,Daniel Tschofenig,AUT,0.3,0.25,0.2,2025 WC overall winner (8 wins)
+Ski Jumping - Men's Normal Hill,Jan Hoerl,AUT,0.22,0.25,0.22,2025 WC runner-up
+Ski Jumping - Men's Normal Hill,Stefan Kraft,AUT,0.18,0.2,0.2,2025 WC 3rd
+Ski Jumping - Men's Normal Hill,Ryoyu Kobayashi,JPN,0.15,0.18,0.18,
+Ski Jumping - Men's Normal Hill,Piotr Żyła,POL,0.1,0.12,0.15,
+Ski Jumping - Men's Large Hill,Daniel Tschofenig,AUT,0.3,0.25,0.2,2025 WC overall winner; Four Hills champ
+Ski Jumping - Men's Large Hill,Jan Hoerl,AUT,0.22,0.25,0.22,2025 WC runner-up
+Ski Jumping - Men's Large Hill,Stefan Kraft,AUT,0.18,0.2,0.2,2025 WC 3rd
+Ski Jumping - Men's Large Hill,Anže Lanišek,SLO,0.15,0.18,0.2,
+Ski Jumping - Men's Large Hill,Ryoyu Kobayashi,JPN,0.1,0.12,0.15,
+Ski Jumping - Women's Normal Hill,Katharina Althaus,GER,0.3,0.25,0.18,
+Ski Jumping - Women's Normal Hill,Alexandria Loutitt,CAN,0.2,0.22,0.2,2023 large hill world champ
+Ski Jumping - Women's Normal Hill,Eva Pinkelnig,AUT,0.18,0.2,0.2,
+Ski Jumping - Women's Normal Hill,Ema Klinec,SLO,0.15,0.18,0.2,
+Ski Jumping - Women's Normal Hill,Sara Takanashi,JPN,0.1,0.12,0.15,
+Ski Jumping - Men's Team,Team Austria,AUT,0.45,0.3,0.18,Tschofenig/Hoerl/Kraft dominance
+Ski Jumping - Men's Team,Team Slovenia,SLO,0.22,0.28,0.22,2025 Worlds team gold
+Ski Jumping - Men's Team,Team Norway,NOR,0.15,0.2,0.22,
+Ski Jumping - Men's Team,Team Germany,GER,0.1,0.15,0.2,
+Ski Jumping - Men's Team,Team Poland,POL,0.05,0.08,0.15,
+Ski Jumping - Women's Team,Team Austria,AUT,0.3,0.3,0.2,
+Ski Jumping - Women's Team,Team Germany,GER,0.3,0.3,0.2,
+Ski Jumping - Women's Team,Team Slovenia,SLO,0.18,0.2,0.2,
+Ski Jumping - Women's Team,Team Norway,NOR,0.12,0.15,0.18,
+Ski Jumping - Women's Team,Team Japan,JPN,0.1,0.12,0.18,
+Ski Jumping - Mixed Team,Team Slovenia,SLO,0.25,0.25,0.2,2022 OLY gold
+Ski Jumping - Mixed Team,Team Austria,AUT,0.25,0.25,0.2,
+Ski Jumping - Mixed Team,Team Germany,GER,0.2,0.22,0.22,
+Ski Jumping - Mixed Team,Team Norway,NOR,0.18,0.18,0.2,
+Ski Jumping - Mixed Team,Team Japan,JPN,0.12,0.1,0.18,
+Ski Mountaineering - Men's Individual,Rémi Bonnet,SUI,0.25,0.25,0.2,World champ
+Ski Mountaineering - Men's Individual,Thibault Anselmet,FRA,0.25,0.25,0.2,
+Ski Mountaineering - Men's Individual,Oriol Cardona,ESP,0.15,0.2,0.22,
+Ski Mountaineering - Men's Individual,Robert Antonioli,ITA,0.12,0.15,0.2,
+Ski Mountaineering - Men's Individual,Werner Marti,SUI,0.08,0.1,0.15,
+Ski Mountaineering - Women's Individual,Axelle Gachet-Mollaret,FRA,0.3,0.25,0.2,
+Ski Mountaineering - Women's Individual,Tove Alexandersson,SWE,0.2,0.22,0.2,
+Ski Mountaineering - Women's Individual,Judit Franch,ESP,0.15,0.2,0.22,
+Ski Mountaineering - Women's Individual,Ilaria Veronese,ITA,0.12,0.15,0.2,
+Ski Mountaineering - Women's Individual,Sarah Dreier,AUT,0.1,0.12,0.18,
+Ski Mountaineering - Mixed Relay,Team Italy,ITA,0.3,0.25,0.2,Hosts; deep squad
+Ski Mountaineering - Mixed Relay,Team France,FRA,0.28,0.25,0.2,
+Ski Mountaineering - Mixed Relay,Team Switzerland,SUI,0.2,0.22,0.22,
+Ski Mountaineering - Mixed Relay,Team Spain,ESP,0.12,0.15,0.2,
+Ski Mountaineering - Mixed Relay,Team Austria,AUT,0.1,0.12,0.18,
+Snowboard - Men's Halfpipe,Ayumu Hirano,JPN,0.3,0.25,0.18,2022 OLY gold
+Snowboard - Men's Halfpipe,Scotty James,AUS,0.25,0.25,0.2,
+Snowboard - Men's Halfpipe,Yuto Totsuka,JPN,0.18,0.2,0.2,
+Snowboard - Men's Halfpipe,Valentino Guseli,AUS,0.12,0.15,0.2,
+Snowboard - Men's Halfpipe,Chase Blackwell,USA,0.07,0.1,0.15,
+Snowboard - Women's Halfpipe,Chloe Kim,USA,0.5,0.2,0.1,Back-to-back OLY golds
+Snowboard - Women's Halfpipe,Cai Xuetong,CHN,0.2,0.25,0.2,
+Snowboard - Women's Halfpipe,Mitsuki Ono,JPN,0.15,0.2,0.25,
+Snowboard - Women's Halfpipe,Queralt Castellet,ESP,0.1,0.15,0.2,
+Snowboard - Women's Halfpipe,Sena Tomita,JPN,0.05,0.1,0.18,
+Snowboard - Men's Slopestyle,Mark McMorris,CAN,0.2,0.25,0.25,
+Snowboard - Men's Slopestyle,Red Gerard,USA,0.18,0.22,0.22,
+Snowboard - Men's Slopestyle,Marcus Kleveland,NOR,0.18,0.2,0.22,
+Snowboard - Men's Slopestyle,Su Yiming,CHN,0.18,0.18,0.2,
+Snowboard - Men's Slopestyle,Mons Røisland,NOR,0.1,0.12,0.18,
+Snowboard - Women's Slopestyle,Zoi Sadowski-Synnott,NZL,0.4,0.25,0.15,2022 OLY gold
+Snowboard - Women's Slopestyle,Miyabi Onitsuka,JPN,0.18,0.22,0.22,
+Snowboard - Women's Slopestyle,Anna Gasser,AUT,0.12,0.18,0.22,
+Snowboard - Women's Slopestyle,Jamie Anderson,USA,0.1,0.15,0.2,If competing
+Snowboard - Women's Slopestyle,Julia Marino,USA,0.08,0.12,0.18,
+Snowboard - Men's Big Air,Su Yiming,CHN,0.25,0.25,0.2,2022 OLY gold
+Snowboard - Men's Big Air,Marcus Kleveland,NOR,0.2,0.22,0.2,
+Snowboard - Men's Big Air,Takeru Otsuka,JPN,0.18,0.2,0.2,
+Snowboard - Men's Big Air,Mark McMorris,CAN,0.15,0.18,0.2,
+Snowboard - Men's Big Air,Red Gerard,USA,0.1,0.12,0.18,
+Snowboard - Women's Big Air,Anna Gasser,AUT,0.2,0.25,0.25,2x OLY gold
+Snowboard - Women's Big Air,Zoi Sadowski-Synnott,NZL,0.3,0.25,0.2,
+Snowboard - Women's Big Air,Kokomo Murase,JPN,0.2,0.2,0.2,
+Snowboard - Women's Big Air,Reira Iwabuchi,JPN,0.15,0.18,0.2,
+Snowboard - Women's Big Air,Julia Marino,USA,0.1,0.12,0.15,
+Snowboard - Men's SBX,Éliot Grondin,CAN,0.25,0.25,0.22,Rising favorite
+Snowboard - Men's SBX,Alessandro Hämmerle,AUT,0.2,0.22,0.22,
+Snowboard - Men's SBX,Martin Nörl,GER,0.18,0.2,0.22,
+Snowboard - Men's SBX,Omar Visintin,ITA,0.15,0.18,0.2,
+Snowboard - Men's SBX,Jakob Dusek,AUT,0.1,0.12,0.18,
+Snowboard - Women's SBX,Charlotte Bankes,GBR,0.3,0.25,0.2,
+Snowboard - Women's SBX,Chloé Trespeuch,FRA,0.22,0.25,0.22,
+Snowboard - Women's SBX,Michaela Moioli,ITA,0.18,0.2,0.22,
+Snowboard - Women's SBX,Lindsey Jacobellis,USA,0.12,0.15,0.18,
+Snowboard - Women's SBX,Josie Baff,AUS,0.1,0.12,0.18,
+Snowboard - Mixed Team SBX,Team Canada,CAN,0.25,0.25,0.22,
+Snowboard - Mixed Team SBX,Team France,FRA,0.22,0.25,0.22,
+Snowboard - Mixed Team SBX,Team USA,USA,0.18,0.2,0.22,
+Snowboard - Mixed Team SBX,Team Italy,ITA,0.18,0.18,0.2,
+Snowboard - Mixed Team SBX,Team Austria,AUT,0.12,0.12,0.18,
+Snowboard - Men's PGS,Benjamin Karl,AUT,0.25,0.25,0.2,
+Snowboard - Men's PGS,Lee Sang-ho,KOR,0.22,0.25,0.22,
+Snowboard - Men's PGS,Roland Fischnaller,ITA,0.18,0.2,0.22,
+Snowboard - Men's PGS,Tim Mastnak,SLO,0.15,0.18,0.2,
+Snowboard - Men's PGS,Dmitry Loginov (AIN),AIN,0.1,0.12,0.16,
+Snowboard - Women's PGS,Ester Ledecká,CZE,0.5,0.25,0.15,Back-to-back OLY golds
+Snowboard - Women's PGS,Daniela Ulbing,AUT,0.2,0.25,0.22,
+Snowboard - Women's PGS,Gloria Kotnik,SLO,0.15,0.18,0.22,
+Snowboard - Women's PGS,Julie Zogg,SUI,0.1,0.15,0.22,
+Snowboard - Women's PGS,Ramona Theresia Hofmeister,GER,0.05,0.1,0.18,
+Cross-Country - Women's 50km (Classic),Ebba Andersson,SWE,0.35,0.25,0.18,(provisional)
+Cross-Country - Women's 50km (Classic),Frida Karlsson,SWE,0.25,0.25,0.22,(provisional)
+Cross-Country - Women's 50km (Classic),Jessie Diggins,USA,0.2,0.25,0.22,(provisional)
+Cross-Country - Women's 50km (Classic),Kerttu Niskanen,FIN,0.12,0.25,0.18,(provisional)
+Ski Jumping - Women's Large Hill,Nika Prevc,SLO,0.5,0.28,0.15,2025 WC winner; 10 straight wins
+Ski Jumping - Women's Large Hill,Selina Freitag,GER,0.18,0.28,0.22,2025 WC runner-up
+Ski Jumping - Women's Large Hill,Katharina Schmid,GER,0.15,0.22,0.22,2025 WC 3rd
+Ski Jumping - Women's Large Hill,Katharina Althaus,GER,0.1,0.15,0.2,
+Ski Jumping - Women's Large Hill,Alexandria Loutitt,CAN,0.05,0.08,0.15,
+Ski Mountaineering - Men's Sprint,Rémi Bonnet,SUI,0.35,0.25,0.18,(provisional)
+Ski Mountaineering - Men's Sprint,Thibault Anselmet,FRA,0.25,0.25,0.22,(provisional)
+Ski Mountaineering - Men's Sprint,Oriol Cardona,ESP,0.2,0.25,0.22,(provisional)
+Ski Mountaineering - Men's Sprint,Werner Marti,SUI,0.12,0.25,0.18,(provisional)
+Ski Mountaineering - Women's Sprint,Axelle Gachet-Mollaret,FRA,0.35,0.25,0.18,(provisional)
+Ski Mountaineering - Women's Sprint,Tove Alexandersson,SWE,0.25,0.25,0.22,(provisional)
+Ski Mountaineering - Women's Sprint,Judit Franch,ESP,0.2,0.25,0.22,(provisional)
+Ski Mountaineering - Women's Sprint,Ilaria Veronese,ITA,0.12,0.25,0.18,(provisional)
+Speed Skating - Men's 10000m,Nils van der Poel,SWE,0.35,0.25,0.18,(provisional)
+Speed Skating - Men's 10000m,Davide Ghiotto,ITA,0.25,0.25,0.22,(provisional)
+Speed Skating - Men's 10000m,Patrick Roest,NED,0.2,0.25,0.22,(provisional)
+Speed Skating - Men's 10000m,Jorrit Bergsma,NED,0.12,0.25,0.18,(provisional)
+Speed Skating - Men's 1000m,Jordan Stolz,USA,0.55,0.25,0.12,Won EVERY 1000m race in 2024-25 WC
+Speed Skating - Men's 1000m,Kjeld Nuis,NED,0.18,0.28,0.25,
+Speed Skating - Men's 1000m,Thomas Krol,NED,0.12,0.22,0.25,
+Speed Skating - Men's 1000m,Zhongyan Ning,CHN,0.08,0.15,0.2,
+Speed Skating - Men's 1500m,Jordan Stolz,USA,0.55,0.25,0.12,Won EVERY 1500m race in 2024-25 WC
+Speed Skating - Men's 1500m,Kjeld Nuis,NED,0.18,0.28,0.25,
+Speed Skating - Men's 1500m,Thomas Krol,NED,0.12,0.22,0.25,
+Speed Skating - Men's 1500m,Connor Howe,CAN,0.08,0.15,0.2,
+Speed Skating - Men's 5000m,Nils van der Poel,SWE,0.35,0.25,0.18,(provisional)
+Speed Skating - Men's 5000m,Patrick Roest,NED,0.25,0.25,0.22,(provisional)
+Speed Skating - Men's 5000m,Davide Ghiotto,ITA,0.2,0.25,0.22,(provisional)
+Speed Skating - Men's 5000m,Sander Eitrem,NOR,0.12,0.25,0.18,(provisional)
+Speed Skating - Men's 500m,Jordan Stolz,USA,0.35,0.28,0.2,Won 500m WC title in 2024-25
+Speed Skating - Men's 500m,Laurent Dubreuil,CAN,0.25,0.25,0.22,
+Speed Skating - Men's 500m,Yuma Murakami,JPN,0.18,0.22,0.22,
+Speed Skating - Men's 500m,Wataru Morishige,JPN,0.12,0.15,0.2,
+Speed Skating - Men's Mass Start,Bart Swings,BEL,0.35,0.25,0.18,(provisional)
+Speed Skating - Men's Mass Start,Andrea Giovannini,ITA,0.25,0.25,0.22,(provisional)
+Speed Skating - Men's Mass Start,Joey Mantia,USA,0.2,0.25,0.22,(provisional)
+Speed Skating - Men's Mass Start,Chan Kim Min-seok,KOR,0.12,0.25,0.18,(provisional)
+Speed Skating - Men's Team Pursuit,Team Netherlands,NED,0.35,0.25,0.18,(provisional)
+Speed Skating - Men's Team Pursuit,Team Norway,NOR,0.25,0.25,0.22,(provisional)
+Speed Skating - Men's Team Pursuit,Team Canada,CAN,0.2,0.25,0.22,(provisional)
+Speed Skating - Men's Team Pursuit,Team Italy,ITA,0.12,0.25,0.18,(provisional)
+Speed Skating - Women's 1000m,Miho Takagi,JPN,0.35,0.28,0.2,2025 WC 1000m winner
+Speed Skating - Women's 1000m,Jutta Leerdam,NED,0.25,0.25,0.22,
+Speed Skating - Women's 1000m,Kimi Goetz,USA,0.18,0.22,0.22,
+Speed Skating - Women's 1000m,Brittany Bowe,USA,0.12,0.15,0.2,
+Speed Skating - Women's 1500m,Miho Takagi,JPN,0.38,0.28,0.18,2025 WC 1500m winner
+Speed Skating - Women's 1500m,Joy Beune,NED,0.22,0.25,0.22,
+Speed Skating - Women's 1500m,Antoinette Rijpma-de Jong,NED,0.18,0.22,0.22,
+Speed Skating - Women's 1500m,Ragne Wiklund,NOR,0.12,0.15,0.2,
+Speed Skating - Women's 3000m,Ragne Wiklund,NOR,0.35,0.25,0.18,(provisional)
+Speed Skating - Women's 3000m,Antoinette Rijpma-de Jong,NED,0.25,0.25,0.22,(provisional)
+Speed Skating - Women's 3000m,Francesca Lollobrigida,ITA,0.2,0.25,0.22,(provisional)
+Speed Skating - Women's 3000m,Isabelle Weidemann,CAN,0.12,0.25,0.18,(provisional)
+Speed Skating - Women's 5000m,Ragne Wiklund,NOR,0.35,0.25,0.18,(provisional)
+Speed Skating - Women's 5000m,Isabelle Weidemann,CAN,0.25,0.25,0.22,(provisional)
+Speed Skating - Women's 5000m,Martina Sáblíková,CZE,0.2,0.25,0.22,(provisional)
+Speed Skating - Women's 5000m,Joy Beune,NED,0.12,0.25,0.18,(provisional)
+Speed Skating - Women's 500m,Erin Jackson,USA,0.38,0.28,0.18,2025 WC 500m winner; 3rd title
+Speed Skating - Women's 500m,Femke Kok,NED,0.25,0.28,0.22,
+Speed Skating - Women's 500m,Angelina Golikova (AIN),AIN,0.18,0.22,0.25,
+Speed Skating - Women's 500m,Nao Kodaira,JPN,0.12,0.25,0.18,(provisional)
+Speed Skating - Women's Mass Start,Irene Schouten,NED,0.35,0.25,0.18,(provisional)
+Speed Skating - Women's Mass Start,Ivanie Blondin,CAN,0.25,0.25,0.22,(provisional)
+Speed Skating - Women's Mass Start,Francesca Lollobrigida,ITA,0.2,0.25,0.22,(provisional)
+Speed Skating - Women's Mass Start,Guo Dan,CHN,0.12,0.25,0.18,(provisional)
+Speed Skating - Women's Team Pursuit,Team Netherlands,NED,0.35,0.25,0.18,(provisional)
+Speed Skating - Women's Team Pursuit,Team Canada,CAN,0.25,0.25,0.22,(provisional)
+Speed Skating - Women's Team Pursuit,Team Japan,JPN,0.2,0.25,0.22,(provisional)
+Speed Skating - Women's Team Pursuit,Team Norway,NOR,0.12,0.25,0.18,(provisional)

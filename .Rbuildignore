@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^analysis$
+^\.csv$
+^AGENTS\.md$
+^README\.Rmd$
+^LICENSE\.md$
